@@ -8,9 +8,6 @@ Crowdsourced list of Canadian tech companies that are hiring interns for Summer 
 ⚡️ Application openings are based on previous years information and may not apply to this year's applications.
 
 To contribute:
- 1. Fork repository
- 2. Edit README.md
- 3. Open a pull request!
 
  # ⏰ Applications Open Now 
  
@@ -18,9 +15,9 @@ To contribute:
  |---|---|---|---|
  |  [Konrad](https://boards.greenhouse.io/konradgroup/jobs/5654760003) |  Toronto |  Unknown |  Summer 2024 UofT PEY - Software Developer Intern (12-16 months) |
  |  [Cisco](https://jobs.cisco.com/jobs/ProjectDetail/Software-Engineer-Intern-Canada/1405428?uid=WdGd8tgOdAzFLoUI) |  Ottawa |  Rolling Applications |  Software Engineer (Intern) Canada |
+ |  [Ansys](https://careers.ansys.com/job/Vancouver-Spring-2024-Electronics-Intern-Software-Development-and-Testing-(BSMS)-Brit-V6E2M6/1026739100) |  Vancouver, Montreal, Waterloo |  Rolling Applications |  Software Development and Testing (Spring 2024) |
  |  [Intuit](https://jobs.intuit.com/search-jobs/Toronto%2C%20Canada/27595/4/6251999-6093943-6167865/43x70011/-79x4163/50/2) |  Toronto |  Unknown |  Software Developer Co-op - 8 Months |
- |  Ansys |  Vancouver, Montreal, Waterloo |  :lock: Closed :lock: |  Software Development and Testing (Spring 2024) |
- |  Google |  Toronto, Waterloo | :lock: Closed :lock: |  Software Developer Intern, BS, Summer 2024 |
+   |  Google |  Toronto, Waterloo | :lock: Closed :lock:|  Software Developer Intern, BS, Summer 2024 |
    
  # 🌻 Upcoming Applications
  ## Based on 2023 Internship Openings
